@@ -6,7 +6,6 @@
 
 <p>
 <a href="mailto:han030602@naver.com"><img src="https://img.shields.io/badge/Email-han030602%40naver.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://bobo.dongha.xyz"><img src="https://img.shields.io/badge/Resume-bobo.dongha.xyz-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 </p>
 
 </div>
@@ -77,6 +76,6 @@ MITRE ATT&CK / VirusTotal 연동 CTI(위협 인텔리전스) 조회 도구
 
 <div align="center">
 
-📧 **han030602@naver.com** · 🌐 [bobo.dongha.xyz](https://bobo.dongha.xyz)
+📧 **han030602@naver.com**
 
 </div>
