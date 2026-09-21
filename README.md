@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=180&section=header&text=Han%20BoYun&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&descAlignY=58&desc=Security%20Research%20Student%20%40%20Gachon%20University&descSize=18&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=620&lines=macOS+Fuzzing+%26+AFL%2B%2B+Binary+Fuzzing;CTI+%2F+Threat+Intelligence+Analysis;Post-Quantum+Cryptography+Research" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=620&lines=AFL%2B%2B+Binary+Fuzzing+%26+Symbolic+Execution;CTI+%2F+Threat+Intelligence+Analysis;Post-Quantum+Cryptography+Research" alt="Typing SVG" />
 
 <p>
 <a href="mailto:han030602@naver.com"><img src="https://img.shields.io/badge/Email-han030602%40naver.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -25,7 +25,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,nodejs,linux,docker,git,mysql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,linux,docker,git,mysql" />
 </p>
 <p>
 <img src="https://img.shields.io/badge/Ghidra-4E9A06?style=for-the-badge&logo=ghidra&logoColor=white">
